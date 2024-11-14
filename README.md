@@ -24,7 +24,3 @@ The trained neural network achieved promising results with an overall accuracy o
 
 ## Usage
 - **Dependencies:** Ensure Python 3.x and necessary libraries such as NumPy, Pandas, and TensorFlow are installed.
-
-
-## Credits
-This project was developed by [@Priyankesh](https://github.com/priyankeshh) as part of [mention any course or program if applicable].
